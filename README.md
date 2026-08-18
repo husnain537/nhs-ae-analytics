@@ -9,7 +9,6 @@ This project examines whether treatment delays in NHS emergency departments corr
 
 
 ### Data:
-
 #### Source: 
 NHS England Provisional A\&E Quality Indicators, December 2025 by Provider https://digital.nhs.uk/data-and-information/publications/statistical/provisional-accident-and-emergency-quality-indicators-for-england/december-2025-by-provider
 
