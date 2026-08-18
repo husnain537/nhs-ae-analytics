@@ -33,7 +33,7 @@ After cleaning (removing closed Trusts and the national ENG aggregate row), the 
 
 ### Findings:
 
-1. Blackpool Teaching Hospitals has the longest average A&E wait in the dataset, at 5 hours 52 minutes (352 minutes) — 1 hour 23 minutes above the next-worst Trust (Wirral, 4 hours 29 minutes) and more than double the national median 169 minutes (2 hours 49 minutes).
+1. Blackpool Teaching Hospitals has the longest average A&E wait in the dataset, at 5 hours 52 minutes (352 minutes), 1 hour 23 minutes above the next-worst Trust (Wirral, 4 hours 29 minutes) and more than double the national median 169 minutes (2 hours 49 minutes).
 
 2. National median A&E wait time improved from 3 hours 6 minutes in December 2023 to 2 hours 37 minutes in August 2024, and has held steady in a 2h39m–2h47m range since spring 2025.
 
