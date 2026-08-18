@@ -45,35 +45,14 @@ National median A\&E wait time improved from 186 minutes in December 2023 to 157
 Repository Structure:
 
 nhs-ae-analytics/
-
-&#x20; README.md
-
-&#x20; .gitignore
-
-&#x20; notebooks/
-
-&#x20;   01\_data\_preparation.ipynb
-
-&#x20;   02\_analysis.ipynb
-
-&#x20;   03\_visualisation.ipynb
-
-&#x20;   04\_reporting.ipynb
-
-&#x20; output/
-
-&#x20;   NHS\_AE\_Report.xlsx
-
-&#x20;   chart\_top10\_wait\_time.png
-
-&#x20;   chart\_england\_trend.png
-
-&#x20;   chart\_treatment\_vs\_reattendance.png
-
-&#x20; data/
-
-&#x20;   .gitkeep
-
+  README.md                          # Project overview and findings
+  notebooks/
+    01_data_preparation.ipynb        # Loads, cleans, and joins raw NHS data
+    02_analysis.ipynb                # Derives KPIs and regional aggregations
+    03_visualisation.ipynb           # Builds the 4 portfolio charts
+    04_reporting.ipynb               # Generates the Excel report
+  output/                            # Final Excel report and chart PNGs
+  data/                              # Empty; raw CSVs excluded (see .gitignore)
 
 
 How to Run:
@@ -97,6 +76,5 @@ Each notebook should be run top-to-bottom in a fresh session. Outputs from each 
 
 
 Author:
-
 Husnain Zahoor
 
