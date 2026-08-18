@@ -10,8 +10,6 @@ This project examines whether treatment delays in NHS emergency departments corr
 
 ### Data:
 
-
-
 #### Source: 
 NHS England Provisional A\&E Quality Indicators, December 2025 by Provider https://digital.nhs.uk/data-and-information/publications/statistical/provisional-accident-and-emergency-quality-indicators-for-england/december-2025-by-provider
 
@@ -35,11 +33,11 @@ After cleaning (removing closed Trusts and the national ENG aggregate row), the 
 
 ### Findings:
 
-Blackpool Teaching Hospitals has the longest average A\&E wait in the dataset, at 352 minutes — 83 minutes above the next-worst Trust (Wirral, 269 minutes) and more than double the national median (169 minutes).
+1. Blackpool Teaching Hospitals has the longest average A&E wait in the dataset, at 5 hours 52 minutes (352 minutes) — 1 hour 23 minutes above the next-worst Trust (Wirral, 4 hours 29 minutes) and more than double the national median 169 minutes (2 hours 49 minutes).
 
-National median A\&E wait time improved from 186 minutes in December 2023 to 157 minutes in August 2024, and has held steady in a 159–167 minute range since spring 2025.
+2. National median A&E wait time improved from 3 hours 6 minutes in December 2023 to 2 hours 37 minutes in August 2024, and has held steady in a 2h39m–2h47m range since spring 2025.
 
-27 Trusts have reattendance rates above 10%, and treatment speed is not the cause. Northumbria Healthcare NHS Foundation Trust has one of the fastest treatment times in the dataset (37.3 minutes) but the highest reattendance rate (15.2%).
+3. 27 Trusts have reattendance rates above 10%, and treatment speed is not the cause. Northumbria Healthcare NHS Foundation Trust has one of the fastest treatment times in the dataset (37.3 minutes) but the highest reattendance rate (15.2%).
 
 
 
