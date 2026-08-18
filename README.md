@@ -1,6 +1,6 @@
-NHS A\&E Performance Analysis
+## NHS A\&E Performance Analysis
 
-##Project Description:
+### Project Description:
 
 
 
@@ -8,7 +8,7 @@ This project examines whether treatment delays in NHS emergency departments corr
 
 
 
-##Data:
+### Data:
 
 
 
@@ -16,7 +16,7 @@ Source: NHS England Provisional A\&E Quality Indicators, December 2025 by Provid
 
 
 
-##Three source files were used:
+### Three source files were used:
 
 
 
@@ -32,7 +32,7 @@ After cleaning (removing closed Trusts and the national ENG aggregate row), the 
 
 
 
-##Findings:
+### Findings:
 
 Blackpool Teaching Hospitals has the longest average A\&E wait in the dataset, at 352 minutes — 83 minutes above the next-worst Trust (Wirral, 269 minutes) and more than double the national median (169 minutes).
 
@@ -42,7 +42,7 @@ National median A\&E wait time improved from 186 minutes in December 2023 to 157
 
 
 
-##Repository Structure:
+### Repository Structure:
 
     nhs-ae-analytics/
 
@@ -63,7 +63,7 @@ National median A\&E wait time improved from 186 minutes in December 2023 to 157
     data/                              # Empty; raw CSVs excluded (see .gitignore)
 
 
-##How to Run:
+### How to Run:
 
 Download the three NHS England source files from the link above and place them in a local data/ folder (not committed to this repository — see .gitignore).
 
@@ -83,7 +83,7 @@ Each notebook should be run top-to-bottom in a fresh session. Outputs from each 
 
 
 
-##Author:
+#### Author:
 
 Husnain Zahoor
 
