@@ -45,13 +45,21 @@ National median A\&E wait time improved from 186 minutes in December 2023 to 157
 Repository Structure:
 
 nhs-ae-analytics/
+
   README.md                          # Project overview and findings
+
   notebooks/
+
     01_data_preparation.ipynb        # Loads, cleans, and joins raw NHS data
+
     02_analysis.ipynb                # Derives KPIs and regional aggregations
+
     03_visualisation.ipynb           # Builds the 4 portfolio charts
+
     04_reporting.ipynb               # Generates the Excel report
+
   output/                            # Final Excel report and chart PNGs
+  
   data/                              # Empty; raw CSVs excluded (see .gitignore)
 
 
