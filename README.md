@@ -44,7 +44,7 @@ After cleaning (removing closed Trusts and the national ENG aggregate row), the 
 
     nhs-ae-analytics/
 
-    README.md                          # Project overview and findings
+    README.md                        # Project overview and findings
 
     notebooks/
 
@@ -56,9 +56,9 @@ After cleaning (removing closed Trusts and the national ENG aggregate row), the 
 
     04_reporting.ipynb               # Generates the Excel report
 
-    output/                            # Final Excel report and chart PNGs
+    output/                          # Final Excel report and chart PNGs
   
-    data/                              # Empty; raw CSVs excluded (see .gitignore)
+    data/                            # Empty; raw CSVs excluded (see .gitignore)
 
 
 ### How to Run:
