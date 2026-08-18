@@ -58,9 +58,9 @@ nhs-ae-analytics/
 
     04_reporting.ipynb               # Generates the Excel report
 
-  output/                            # Final Excel report and chart PNGs
+    output/                            # Final Excel report and chart PNGs
   
-  data/                              # Empty; raw CSVs excluded (see .gitignore)
+    data/                              # Empty; raw CSVs excluded (see .gitignore)
 
 
 How to Run:
